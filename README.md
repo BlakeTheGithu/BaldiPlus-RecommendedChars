@@ -67,3 +67,5 @@ Make sure you have the [.NET SDK](https://dotnet.microsoft.com/en-us/download) i
 `dotnet build`
 
 This will build to the *Debug* configuration by default, append `-c Release` if you want to built it with the *Release* configuration.
+
+noooo uncertainluei is retireing, i have to decided to port this mod
